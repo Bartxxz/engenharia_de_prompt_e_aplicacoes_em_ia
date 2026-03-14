@@ -1,6 +1,6 @@
 # engenharia_de_prompt_e_aplicacoes_em_ia
 Trabalhos e Faculdade
-## Engenharia de Prompt e Aplicações em Inteligência Artificial
+## 🤖 Engenharia de Prompt e Aplicações em Inteligência Artificial
 
 Com o avanço dos modelos de Inteligência Artificial baseados em linguagem, surgiu uma nova área de estudo conhecida como **Engenharia de Prompt**. Essa prática consiste em projetar, estruturar e otimizar instruções (prompts) fornecidas a modelos de IA para obter respostas mais precisas, úteis e alinhadas com o objetivo do usuário.
 
